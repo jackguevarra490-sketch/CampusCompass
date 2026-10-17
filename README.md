@@ -1,0 +1,2 @@
+# CampusCompass
+First year friendly
